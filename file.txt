@@ -2,4 +2,8 @@ this is a file
 
 yes, this is a file
 
+<<<<<<< HEAD
 tova raboti malko stranno
+=======
+I'm not sure about that (•_•)
+>>>>>>> 0b0e4ddf9af030769f9fe59a88588f8993be03d0
